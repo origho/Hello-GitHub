@@ -1,0 +1,35 @@
+img {
+	width: 190px;
+	height: 190px;
+	float: left;
+}
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+p{
+	font-size: 18px;
+	text-align: center;
+}
+
+h3 {
+	text-align: left;
+	margin-left: 35px
+}
+
+ul {
+	margin-left: 3px;
+	font-size: 10px;
+}
+
+li{
+	font-size: 18px;
+}
+
+td{
+	font-size: 18px;
+}
+
